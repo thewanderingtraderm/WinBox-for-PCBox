@@ -1,14 +1,12 @@
-# WinBox-for-86Box
+# WinBox-for-PCBox
 #### The newest way to manage the oldest computers.
 
-This program has been created to simplify the way I use [86Box](https://github.com/86Box/86Box) x86 emulator. 
-
-Currently this software is the successor of [WinBox Reloaded](https://github.com/86Box/WinBox-Reloaded).
+This program has been created to simplify the way I use [PCBox](https://github.com/PCBox/PCBox) x86 emulator. 
 
 <p align="center"><img src="https://github.com/86Box/WinBox-for-86Box/blob/6be9b55daa445b1864c36bd31b092e4bd815d071/Images/Wiki/Screenshot.PNG" width="500" height="353"></img></p>
 
 **It's most noticeable features are:**
-- It automatically updates 86Box from Jenkins.
+- It automatically updates PCBox from Jenkins.
 - It collects all your VMs in a slick brand new list, with some customization options.
 - It has a very user friendly UI.
 - It has a template based virtual machine creation wizard, which makes life so much easier.
